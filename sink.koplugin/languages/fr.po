@@ -27,11 +27,11 @@ msgstr "Déjà synchronisé avec le cloud."
 
 # en-hash: 95ce3c7e75bfb28e7df96004f552fc67
 msgid "Authentication failed (401 Unauthorized).\nTap 'Pair Device' to re-link your e-reader."
-msgstr "Échec de l'authentification (401 Non autorisé).\nAppuyez sur « Appairer l'appareil » pour reconnecter votre liseuse."
+msgstr "Échec d'authentification (401 Non autorisé).\nAppuyez sur « Appairer l'appareil » pour reconnecter votre liseuse."
 
 # en-hash: 37f8267a3e714899a3a93e556537b999
 msgid "Authentication failed (401 Unauthorized).\nYour e-reader's credentials do not match this server.\n\nTap 'Re-Pair Device' to reconnect."
-msgstr "Échec de l'authentification (401 Non autorisé).\nLes identifiants de votre liseuse ne correspondent pas à ce serveur.\n\nAppuyez sur « Réappairer l'appareil » pour vous reconnecter."
+msgstr "Échec d'authentification (401 Non autorisé).\nLes identifiants de votre liseuse ne correspondent pas à ce serveur.\n\nAppuyez sur « Réappairer l'appareil » pour vous reconnecter."
 
 # en-hash: a824b37efb0b99cc3b89aed704cd9343
 msgid "Auto-Sync on Read/Close/Sleep"
@@ -67,7 +67,7 @@ msgstr "Annuler"
 
 # en-hash: 9211d73deff48a5bd41a1deddf351de1
 msgid "Cannot write temporary update file: "
-msgstr "Impossible d'écrire le fichier de mise à jour temporaire : "
+msgstr "Impossible d'écrire le fichier temporaire de mise à jour : "
 
 # en-hash: f77f38f684c8b974dd4a56bb321cfd5f
 msgid "Check for Updates"
@@ -103,7 +103,7 @@ msgstr "Impossible de récupérer les livres synchronisés :\n"
 
 # en-hash: 356e6b5e9763709fa0d96022eefc8957
 msgid "Could not reach GitHub Releases (HTTP %s)."
-msgstr "Impossible d'accéder à GitHub Releases (HTTP %s)."
+msgstr "Impossible d'accéder aux GitHub Releases (HTTP %s)."
 
 # en-hash: 8e9483265efe4f1a2c6a6148a7204146
 msgid "Could not reach Sink server (%s).\nPlease verify Server URL and Wi-Fi connection."
@@ -227,7 +227,7 @@ msgstr "Aucune progression distante trouvée pour ce livre."
 
 # en-hash: 063e11c34bdbb5356d769df1837c1f7f
 msgid "Non-intrusive private KOReader progress synchronization for Kindle and other devices with Cloudflare Workers."
-msgstr "Synchronisation non intrusive et privée de la progression dans KOReader pour Kindle et d'autres appareils avec Cloudflare Workers."
+msgstr "Synchronisation non intrusive et privée de la progression dans KOReader pour Kindle et autres appareils avec Cloudflare Workers."
 
 # en-hash: 94a4e04debf2900937f3bbe67a9a390e
 msgid "Not reachable"
@@ -259,7 +259,7 @@ msgstr "Le module d'appairage n'est pas disponible."
 
 # en-hash: ec80f9911a895ce496b41173b83a28f6
 msgid "Pairing session timed out. Please try again."
-msgstr "Le délai de la session d'appairage a expiré. Veuillez réessayer."
+msgstr "Délai de la session d'appairage expiré. Veuillez réessayer."
 
 # en-hash: 7b703a688afcc131a40c9d1a84fb274a
 msgid "Please configure your Server URL in settings first."
@@ -267,7 +267,7 @@ msgstr "Veuillez d'abord configurer l'URL de votre serveur dans les paramètres.
 
 # en-hash: 3ca15b8c7a1e79594a930d7918d2c4de
 msgid "Please enter a valid Cloudflare Worker URL before pairing."
-msgstr "Veuillez saisir une URL Cloudflare Worker valide avant de procéder à l'appairage."
+msgstr "Veuillez saisir une URL Cloudflare Worker valide avant d'appairer."
 
 # en-hash: efa47636b3d4c5ba89976b82ee5db803
 msgid "Please pair your device or configure credentials in settings."
@@ -371,7 +371,7 @@ msgstr "Synchronisé depuis le cloud : %.1f%% (%s)"
 
 # en-hash: e8a6d99eb898c3f48b663da56fc11cde
 msgid "Synced to cloud: %.1f%%"
-msgstr "Synchronisé avec le cloud : %.1f%%"
+msgstr "Synchronisé au cloud : %.1f%%"
 
 # en-hash: c92e6c4ff7075865e80918469a6d887a
 msgid "Syncing with Sink server..."
@@ -439,7 +439,7 @@ msgstr "✓ Mise à jour du backend déclenchée !\n\nCloudflare reconstruit vot
 
 # en-hash: 6aa69af9ea5a05a71dd995272914e990
 msgid "✓ Connected to Sink server!\nSync is active and healthy."
-msgstr "✓ Connexion établie avec le serveur Sink !\nLa synchronisation est active et fonctionne correctement."
+msgstr "✓ Connexion établie avec le serveur Sink !\nLa synchronisation est active et correcte."
 
 # en-hash: 7dc3b0979c69b49c7f8840c1478c6a64
 msgid "✓ E-Reader Paired Successfully!\n\nReading progress will now sync automatically."
