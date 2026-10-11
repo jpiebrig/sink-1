@@ -439,7 +439,7 @@ msgstr "✓ Mise à jour du backend déclenchée !\n\nCloudflare reconstruit vot
 
 # en-hash: 6aa69af9ea5a05a71dd995272914e990
 msgid "✓ Connected to Sink server!\nSync is active and healthy."
-msgstr "✓ Connecté au serveur Sink !\nLa synchronisation est active et opérationnelle."
+msgstr "✓ Connexion établie avec le serveur Sink !\nLa synchronisation est active et fonctionne correctement."
 
 # en-hash: 7dc3b0979c69b49c7f8840c1478c6a64
 msgid "✓ E-Reader Paired Successfully!\n\nReading progress will now sync automatically."
@@ -447,7 +447,7 @@ msgstr "✓ Liseuse appairée avec succès !\n\nLa progression de lecture se syn
 
 # en-hash: 1d64a4bae0620cdab2717daeea89bcca
 msgid "✓ Pairing PIN updated successfully!\nYou can now use this PIN when connecting devices."
-msgstr "✓ Code PIN d\'appairage mis à jour avec succès !\nVous pouvez désormais utiliser ce code PIN pour connecter vos appareils."
+msgstr "✓ Code PIN d'appairage mis à jour avec succès !\nVous pouvez désormais utiliser ce code PIN pour connecter vos appareils."
 
 # en-hash: 002ef1e9ffc6632f8f852326ff6d7965
 msgid "✓ Plugin is up to date."
