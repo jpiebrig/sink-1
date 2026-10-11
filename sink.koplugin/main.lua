@@ -12,6 +12,9 @@ local socket = require("socket")
 local http = require("socket.http")
 local https = require("ssl.https")
 local ltn12 = require("ltn12")
+
+local plugin_path = ((...) or ""):match("(.-)[^%.]+$") or ""
+
 local _ = require("gettext")
 local Loc = nil
 pcall(function()
@@ -29,7 +32,6 @@ pcall(function() Event = require("ui/event") end)
 local util = nil
 pcall(function() util = require("util") end)
 
-local plugin_path = ((...) or ""):match("(.-)[^%.]+$") or ""
 local SinkPairing = nil
 pcall(function()
     SinkPairing = require(plugin_path .. "sink_pairing")
